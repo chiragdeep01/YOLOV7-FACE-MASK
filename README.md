@@ -60,3 +60,5 @@ If you plan to do a custom training make sure that you use only 2 classes nomask
 The reason for this is that i have assigned colour to the detection based on class id so the name can be different but the number of classes should remain 2 and order should be the same.
 
 If you have any doubt about custom training you can raise an issue and will help you out surely.
+
+[YOLOv7](https://github.com/WongKinYiu/yolov7).
