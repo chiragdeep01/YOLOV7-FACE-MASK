@@ -40,7 +40,7 @@ Next you need to set up the cameras. In the json file cam1 is the name of the ca
 You can also setup your phone camera as an ip camera on your local network and use that to, for example:
 ```json
 "cam1" : 0,
-"cam2" : 'http://192.168.1.18:8080/video'
+"cam2" : "http://192.168.1.18:8080/video"
 
 ```
 cam2 is the phone camera that i have set up.
