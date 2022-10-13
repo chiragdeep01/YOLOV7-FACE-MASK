@@ -1,0 +1,8 @@
+{
+
+  "cameras" : {
+              "cam1": 0
+            },
+
+  "weights" : "mask_weights/best.pt"
+}
