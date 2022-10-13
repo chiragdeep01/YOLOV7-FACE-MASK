@@ -47,7 +47,7 @@ cam2 is the phone camera that i have set up.
 
 You can set up multiple cameras you will just have to add them to this json file.
 
-Now open up the teminal and cd to the repo and actviate your enviroment and then run:
+Now open up the teminal and cd to the repo and activate your enviroment and then run:
 ```cmd
 python main.py
 ```
