@@ -20,7 +20,7 @@ Now your enviroment is ready along with the files.
 ## Usage
 
 First you need to download the weights from the drive [Link](https://drive.google.com/file/d/1voiuoNuaSCfpxp7NYbXnCsZgP05qsQGd/view?usp=sharing).
-You can also train you own weights but read the training warnings below.
+You can also train you own weights but read the training warnings below. The weights have not been trained on a public dataset and have collected a dataset of my own so the model might not perform well for you. You can train your own model if you require which i have instructed at the end.
 
 Now open the config.json file and set weights to the path of the weights that you have downloaded.
 
